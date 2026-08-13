@@ -1,6 +1,6 @@
-// UNHUMAN 简体中文 sözlüğü (üretim sürüyor; chunk 01-02 girildi)
-// Kurallar: GLOSSARY.md bağlayıcı. Marka adları (RustTek, Smartframe, Vanta, Kestrel,
-// Ironclad, Mk.I-III) ve RAID/EXTRACT/WARDEN gibi terimler İngilizce kalır.
-// Eksik anahtar = İngilizce gösterilir, oyun bozulmaz.
+// Словарь UNHUMAN (Русский, скопирован с Китайского, заменяет его) (в процессе разработки; добавлены чанки 01-02)
+// Правила: соблюдать GLOSSARY.md. Названия брендов (RustTek, Smartframe, Vanta, Kestrel,
+// Ironclad, Mk.I-III) и термины вроде RAID/EXTRACT/WARDEN остаются на английском.
+// Отсутствующий ключ = отображается на английском, чтобы не сломать игру.
 window.I18N_DICTS = window.I18N_DICTS || {};
 window.I18N_DICTS.zh = {
