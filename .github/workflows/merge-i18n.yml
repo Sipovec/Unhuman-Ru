@@ -11,15 +11,13 @@ permissions:
 jobs:
   merge:
     runs-on: ubuntu-latest
-    env: 
-        FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v5.3.0
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -27,13 +25,13 @@ jobs:
         run: python merge_i18n.py -i parts -o merged_dict.js
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v4.6.0
+        uses: actions/upload-artifact@v4
         with:
           name: merged-i18n
           path: merged_dict.js
 
       - name: Create GitHub Release
-        uses: softprops/action-gh-release@v2.2.1
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: i18n-v${{ github.run_number }}
           files: zh.js
