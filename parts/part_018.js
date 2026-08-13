@@ -1,0 +1,13 @@
+    // ==== parça 22: boost/buff tooltipleri + em-dash migrasyonu ====
+    "+180 damage (only in a grid corner)": "+180 伤害（仅在放置于网格角落时生效）",
+    "FRENZY": "狂热",
+    "IRON SKIN": "铁壁",
+    "NANOWEAVE": "纳米织层",
+    "HYDRAULIC": "液压",
+    "SURGE": "涌流",
+    "COIN": "硬币",
+    "BET": "赌注",
+    "BLOOD DEBT: +10% damage": "血债：+10% 伤害",
+    "BLUR: +30% evasion (5s)": "残影：+30% 闪避（5 秒）",
+    "The warden relinquished a MYTHIC CACHE. Open it in the CACHES panel.": "WARDEN 交出了一个神话补给箱。请在补给箱面板中开启。",
+    "Type 'help' for commands...": "输入 'help' 查看命令...",

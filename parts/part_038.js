@@ -1,0 +1,11 @@
+    // ==== chunk 10: statik UI son (trader adları/takma adları BİLİNÇLİ Latin) ====
+    "[ TECH TABLE ]": "[ 科技工作台 ]",
+    "[ TRADERS ]": "[ 商人 ]",
+    "[AUTO]": "[自动]",
+    "[FILTER]": "[筛选]",
+    "[KERNEL]": "[内核]",
+    "[PATCH]": "[补丁]",
+    "[PLAN MODE]": "[方案模式]",
+    "[REFUEL]": "[加油]",
+    "[SPACE] PICK": "[空格] 拾取",
+    "and visual patterns that may cause discomfort.": "以及可能引起不适的视觉图案。",
