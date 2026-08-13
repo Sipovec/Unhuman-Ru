@@ -2,7 +2,7 @@
 Перевод игры на Русский Язык нейросетью.
 
 ## Переведено:
-0/49
+2/49
 
 ## Установка
 1. Скачать `zh.js` из последнего [релиза](https://github.com/Sipovec/Unhuman-Ru/releases).
@@ -21,4 +21,5 @@ python split_i18n.py zh.js
 python merge_i18n.py -i parts -o restored_dict.js
 ```
 
-Скрипты полностью написаны локальной `Qwen 3.6 35B-A3B UD_Q4_K_XL`.
+Скрипты написаны `Qwen 3.6 35B-A3B UD_Q4_K_XL`.
+Перевод выполнен `Gemma 4 26B-A4B-it UD_Q4_K_XL`.
