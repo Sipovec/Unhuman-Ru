@@ -22,13 +22,13 @@ jobs:
           python-version: '3.11'
 
       - name: Run merge script
-        run: python merge_i18n.py -i parts -o merged_dict.js
+        run: python merge_i18n.py -i parts -o zh.js
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: merged-i18n
-          path: merged_dict.js
+          path: zh.js
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
