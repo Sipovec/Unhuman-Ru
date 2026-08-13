@@ -1,0 +1,41 @@
+name: Merge I18N Parts → Release
+
+on:
+  workflow_dispatch: # Кнопка "Run workflow" в вкладке Actions
+  # push:
+  #   branches: [ main ] # Раскомментируйте, чтобы собирать автоматически при push
+
+permissions:
+  contents: write # Нужно для создания релизов и загрузки артефактов
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run merge script
+        run: python merge_i18n.py -i parts -o merged_dict.js
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: merged-i18n
+          path: merged_dict.js
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: i18n-v${{ github.run_number }}
+          files: merged_dict.js
+          name: Merged I18N Dict v${{ github.run_number }}
+          generate_release_notes: true
+          draft: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
