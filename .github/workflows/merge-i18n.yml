@@ -1,22 +1,27 @@
 name: Merge I18N Parts → Release
 
 on:
-  workflow_dispatch: # 👈 Кнопка "Run workflow"
+  workflow_dispatch: # Кнопка "Run workflow" в вкладке Actions
   # push:
   #   branches: [ main ]
 
 permissions:
-  contents: write # Обязательно для создания релизов
+  contents: write
 
 jobs:
   merge:
     runs-on: ubuntu-latest
+    env: 
+        FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4.2.2
 
       - name: Set up Python
         uses: actions/setup-python@v5.3.0
+        with:
+          python-version: '3.11'
 
       - name: Run merge script
         run: python merge_i18n.py -i parts -o merged_dict.js
