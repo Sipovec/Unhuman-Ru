@@ -20,7 +20,7 @@
     "OPERATIVE:": "ОПЕРАТИВНИК:",
     "OPERATOR IDENTIFICATION REQUIRED": "ТРЕБУЕТСЯ ИДЕНТИФИКАЦИЯ ОПЕРАТОРА",
     "PAUSED": "ПАУЗА",
-    "PHOTOSENSITIVITY WARNING": "ПРЕДУПРЕЖДЕНИЕ О ФОТОВСВЕТЕ",
+    "PHOTOSENSITIVITY WARNING": "ПРЕДУПРЕЖДЕНИЕ О СВЕТОЧУВСТВИТЕЛЬНОСТИ",
     "PLAN SUMMARY": "РЕЗЮМЕ ПЛАНА",
     "POINTS:": "ОЧКИ:",
     "PRESS F TO INTERACT": "НАЖМИТЕ F ДЛЯ ВЗАИМОДЕЙСТВИЯ",
