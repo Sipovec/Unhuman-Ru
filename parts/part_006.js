@@ -1,4 +1,4 @@
-    // ==== JS_UI parça 10: audit 2. dalga (settings etiketleri, keystone'lar, kategoriler) ====
+    // ==== JS_UI часть 10: аудит 2-й волны (настройки, keystone, категории) ====
     "CRT Effects": "CRT-эффекты",
     "Menu Animations": "Анимация меню",
     "Particles": "Частицы",
@@ -87,7 +87,7 @@
     "Prototype": "PROTOTYPE",
     "Mythic": "MYTHIC",
     "DOG*": "DOG*",
-    "PATCH (Ripperdoc)": "PATCH (Рипердок)",
+    "PATCH (Ripperdoc)": "PATCH (Ripperdoc)",
     "AUGMENT MISSION": "ЗАДАНИЕ НА АУГМЕНТАЦИЮ",
     "Game will be saved. Close the application?": "Игра будет сохранена. Закрыть приложение?",
     "Game will be saved. Return to main menu?": "Игра будет сохранена. Вернуться в главное меню?",
