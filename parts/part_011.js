@@ -1,1 +1,1 @@
-    // ==== parametrik desenler (I18N gozlemcisi exact-match bulamayinca dener) ====
+    // ==== параметрические шаблоны (I18N-наблюдатель пробует их, если не найдено точное совпадение) ====
