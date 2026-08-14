@@ -23,7 +23,7 @@
     "Neural boost for faster looting and movement.": "Нейронный буст для ускоренного лута и перемещения.",
     "Industrial-grade skeleton for increased carrying capacity.": "Промышленный скелет для увеличения грузоподъемности.",
     "Dark energy core that drains life from enemies.": "Ядро темной энергии, высасывающее жизнь из врагов.",
-    "Helps you find items and detects enemies ahead.": "Помогает искать предметы и обнаруживает врагов впереди.",
+    "Helps you find items and detects enemies up ahead.": "Помогает искать предметы и обнаруживает врагов впереди.",
     "Basic dog food. Restores 50% hunger. Lasts 1 hour.": "Базовый корм для собак. Восстанавливает 50% сытости. Хватает на 1 час.",
     "High quality dog food. Fully restores hunger. Lasts 2 hours.": "Высококачественный корм для собак. Полностью восстанавливает сытость. Хватает на 2 часа.",
     "A classic tennis ball. +5 happiness per pet. 100 durability.": "Классический теннисный мячик. +5 к счастью за каждое поглаживание. Прочность 100.",
