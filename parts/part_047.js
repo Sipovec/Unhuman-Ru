@@ -70,7 +70,7 @@
     "Obtain augments through quests and boss drops": "Получайте аугментации через задания и дроп с боссов",
     "Click a slot to view details and upgrade options": "Нажмите на слот, чтобы просмотреть детали и варианты улучшения",
     "Visit Ripperdoc to initiate the Evolution Protocol.": "Посетите RIPPERDOC, чтобы запустить Протокол Эволюции.",
-    "Configure your mining rigs to passively generate": "Настройте свои буровые установки для пассивной генерации",
+    "Configure your mining rigs to passively generate": "Настройте свои майнинг риги для пассивной генерации",
     "Insured items are prioritized when re-equipping.": "Застрахованные предметы имеют приоритет при переоснащении.",
     "MYTHIC gear will be destroyed permanently!": "MYTHIC снаряжение будет уничтожено навсегда!",
     "Jumps to any screen. Drag the header to move it, dash to shrink. Hidden during raids.": "Переход к любому экрану. Перетащите заголовок, чтобы переместить, или нажмите полоску, чтобы свернуть. Скрывается во время RAID.",
