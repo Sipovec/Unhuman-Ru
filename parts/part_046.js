@@ -154,7 +154,7 @@
     "Last Stand": "Последний рубеж",
     "Last Stand Protocol": "Протокол последнего рубежа",
     "Level": "Уровень",
-    "Lifesteal a % of all damage dealt": "Кража жизни в % от нанесенного урона",
+    "Lifesteal a % of all damage dealt": "Вампиризм в % от нанесенного урона",
     "Locked Safe": "Запертый сейф",
     "Loot Multiplier": "Множитель лута",
     "Loot Quantity": "Количество лута",
