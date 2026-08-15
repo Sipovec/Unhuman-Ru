@@ -67,7 +67,7 @@
     "Complete your first REBIRTH in the INSANITY terminal to attune.": "Завершите свой первый REBIRTH в терминале INSANITY, чтобы настроиться.",
     "Defeat a Warden or complete an INSANITY minigame REBIRTH to unlock": "Победите WARDEN или завершите REBIRTH в мини-игре INSANITY, чтобы разблокировать",
     "No corruption modifiers active. Select a higher level for increased challenge & rewards.": "Нет активных модификаторов порчи. Выберите более высокий уровень для повышенной сложности и наград.",
-    "Obtain augments through quests and boss drops": "Получайте аугментации через квесты и дроп с боссов",
+    "Obtain augments through quests and boss drops": "Получайте аугментации через задания и дроп с боссов",
     "Click a slot to view details and upgrade options": "Нажмите на слот, чтобы просмотреть детали и варианты улучшения",
     "Visit Ripperdoc to initiate the Evolution Protocol.": "Посетите RIPPERDOC, чтобы запустить Протокол Эволюции.",
     "Configure your mining rigs to passively generate": "Настройте свои буровые установки для пассивной генерации",

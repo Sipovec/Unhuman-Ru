@@ -21,7 +21,7 @@
     "Language": "Язык",
     "Navigation Panel": "Панель навигации",
     "Ask Before Quick Actions": "Спрашивать перед быстрыми действиями",
-    "Auto Accept and Complete Quests": "Автопринятие и выполнение квестов",
+    "Auto Accept and Complete Quests": "Автопринятие и выполнение заданий",
     "Automatically heal to full HP after raid ($)": "Авто-лечение до полного HP после RAID ($)",
     "Opens a screen from anywhere outside a raid. Click a binding, then press a key or a mouse side button. ESC cancels, DELETE clears. Raid keys, left click, right click and the wheel stay with the game.": "Открывает экран из любого места вне RAID. Нажмите на привязку, затем клавишу или боковую кнопку мыши. ESC отменяет, DELETE очищает. Клавиши RAID, левая/правая кнопки мыши и колесико остаются за игрой.",
     "Bad (unprotected) base tiers get sold/salvaged even above Max Rarity. Needs Protect Base Tier. Never touches Prototype, Mythic, protected or disabled types": "Низкое (незащищенное) базовое качество будет продано/разобрано, даже если оно выше максимальной редкости. Требуется функция Protect Base Tier. Никогда не затрагивает типы PROTOTYPE, MYTHIC, защищенные или отключенные типы.",
