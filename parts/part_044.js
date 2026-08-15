@@ -132,7 +132,7 @@
     "SAVE MANAGEMENT": "УПРАВЛЕНИЕ СОХРАНЕНИЯМИ",
     "SAVE SIZE WARNING": "ПРЕДУПРЕЖДЕНИЕ О РАЗМЕРЕ СОХРАНЕНИЯ",
     "SAVE TO SLOT": "СОХРАНИТЬ В СЛОТ",
-    "SCAVENGE": "СКАВЕНДЖ",
+    "SCAVENGE": "СБОР",
     "SCOUTED:": "РАЗВЕДЕНО:",
     "SECURE": "ЗАБЛОКИРОВАТЬ",
     "SELECT AN AUGMENT SLOT": "ВЫБЕРИТЕ СЛОТ АУГМЕНТАЦИИ",
