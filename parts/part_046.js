@@ -24,7 +24,7 @@
     "Armor Shredder": "Разрушитель брони",
     "Attacks cost no stamina": "Атаки не тратят выносливость",
     "Auto (default)": "Авто (по умолчанию)",
-    "Auto Deploy": "Авто-развертывание",
+    "Auto Deploy": "Авто-дислокация",
     "Auto Sprint": "Авто-спринт",
     "Auto-Buy Mag": "Авто-покупка магазина",
     "Auto-Heal After Raid": "Авто-лечение после RAID",
