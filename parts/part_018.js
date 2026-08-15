@@ -9,5 +9,5 @@
     "BET": "СТАВКА",
     "BLOOD DEBT: +10% damage": "КРОВАВЫЙ ДОЛГ: +10% урона",
     "BLUR: +30% evasion (5s)": "РАЗМЫТИЕ: +30% уклонения (5 сек.)",
-    "The warden relinquished a MYTHIC CACHE. Open it in the CACHES panel.": "WARDEN оставил мифический тайник. Откройте его на панели тайников.",
+    "The warden relinquished a MYTHIC CACHE. Open it in the CACHES panel.": "WARDEN оставил MYTHIC тайник. Откройте его на панели тайников.",
     "Type 'help' for commands...": "Введите 'help' для команд...",
