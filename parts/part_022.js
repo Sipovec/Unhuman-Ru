@@ -21,7 +21,7 @@
     "Nomad Framework": "Структура Nomad",
     "Nomad": "Nomad",
     "Smart Organizer Protocol": "Протокол умной организации",
-    "Overdrive Scheduler": "Планировщик овердрайва",
+    "Overdrive Scheduler": "Планировщик Перегрузки",
     "Packrat Protocol": "Протокол Packrat",
     "Penetration Stack": "Стек пробития",
     "Piercing Calibration": "Калибровка пробития",
