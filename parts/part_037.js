@@ -52,7 +52,7 @@
     "SKILLS": "НАВЫКИ",
     "SKIP": "ПРОПУСТИТЬ",
     "SPECIAL THANKS": "ОСОБАЯ БЛАГОДАРНОСТЬ",
-    "STANDARD": "СТАНДАРТ",
+    "STANDARD": "STANDARD",
     "STASH": "ХРАНИЛИЩЕ",
     "STATS ▾": "ХАРАКТЕРИСТИКИ ▾",
     "STOCK": "ЗАПАС",
