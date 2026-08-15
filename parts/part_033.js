@@ -1,7 +1,7 @@
     // ==== часть 05: продолжение древа лута + карты + мастерство сигнала + названия квестов ====
     // ПРИМЕЧАНИЕ: SteamAchievements.NAMES.* не внесены, названия достижений НАМЕРЕННО оставлены на английском (см. GLOSSARY.md).
     "Strip Mining": "Strip Mining",
-    "Uplift Amplifier": "Усилитель Uplift",
+    "Uplift Amplifier": "Усилитель Подъёма",
     "Void Attunement": "Настройка Пустоты",
     "Wide Net": "Широкая сеть",
     "Zero-Day Exploit": "Эксплойт нулевого дня",
