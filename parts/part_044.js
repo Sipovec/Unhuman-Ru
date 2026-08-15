@@ -207,7 +207,7 @@
     "UTILITY": "ПОЛЕЗНОЕ",
     "UTILITY BELT": "ПОЯС С ИНСТРУМЕНТАМИ",
     "VAHLEN IS DEAD": "VAHLEN мертв",
-    "VAULT": "СХРОН",
+    "VAULT": "ХРАНИЛИЩЕ",
     "VISUAL EFFECTS": "ВИЗУАЛЬНЫЕ ЭФФЕКТЫ",
     "VOLUME CONTROLS": "УПРАВЛЕНИЕ ГРОМКОСТЬЮ",
     "WARDEN AVAILABLE": "WARDEN ДОСТУПЕН",
