@@ -44,7 +44,7 @@
     "CONFIRM RESET": "ПОДТВЕРДИТЬ СБРОС",
     "CONFIRMATION": "ПОДТВЕРЖДЕНИЕ",
     "CONTINUE": "ПРОДОЛЖИТЬ",
-    "CREDITS": "ТИТРЫ",
+    "CREDITS": "КРЕДИТЫ",
     "CURRENT RANK": "ТЕКУЩИЙ РАНГ",
     "CYBORG MK.1": "КИБОРГ MK.1",
     "DANGER:": "ОПАСНОСТЬ:",
