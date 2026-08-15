@@ -65,7 +65,7 @@
     "Ensured ✓": "Гарантировано ✓",
     "Hide completed": "Скрыть выполненные",
     "Hold Z": "Удерживайте Z",
-    "NOTABLE LOOT": "ЦЕННЫЙ ЛУТ",
+    "NOTABLE LOOT": "ЦЕННАЯ ДОБЫЧА",
     "NOTABLE": "ЦЕННЫЙ",
     "KEYSTONE": "KEYSTONE",
     "MEDIUM": "СРЕДНИЙ",
