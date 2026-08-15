@@ -87,7 +87,7 @@
     "glitch   Corrupts item. Unpredictable. Locks.": "glitch   Повреждает предмет. Непредсказуемо. Блокирует.",
     "click code to add to queue | use 'inject <code>' in terminal": "кликните по коду, чтобы добавить в очередь | используйте «inject <code» в терминале",
     "- no codes -": "- нет кодов -",
-    "* effects vary by item type (armor/melee/ranged) - type 'help glitch' in terminal": "* эффекты зависят от типа предмета (броня/ближний/дальний бой) — введите «help glitch» в терминале",
+    "* effects vary by item type (armor/melee/ranged) - type 'help glitch' in terminal": "* эффекты зависят от типа предмета (броня/ближний/дальний бой) - введите «help glitch» в терминале",
     "No item selected. Use \"select <n>\" first.": "Предмет не выбран. Сначала используйте «select <n>».",
     "sell btc <amount>": "sell btc <amount>",
     "target crafting": "целевой крафт",
