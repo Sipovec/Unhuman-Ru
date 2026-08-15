@@ -55,7 +55,7 @@
     "Flux Earned": "Получено FLUX",
     "Highest CL": "Макс. CL",
     "Corrupted Raids": "Зараженные RAID",
-    "Wardens Defeated": "Победить WARDEN",
+    "Wardens Defeated": "Побеждено WARDEN",
     "Salvage all items up to a rarity tier?": "Разобрать все предметы до уровня редкости?",
     "for crafting materials?": "для материалов крафта?",
     "Expected:": "Ожидается:",
