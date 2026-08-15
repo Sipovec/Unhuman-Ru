@@ -44,7 +44,7 @@
     "Defense & Sustain": "Защита и живучесть",
     "High Risk, High Reward": "Высокий риск — высокая награда",
     "+3 HP and +0.2 Armor per point": "+3 HP и +0.2 брони за единицу",
-    "RPM": "Скорострельность (RPM)",
+    "RPM": "выстр./мин",
     "Armor Pen": "Пробитие брони",
     "Cold Damage": "Урон холодом",
     "Lightning Damage": "Урон молнией",
