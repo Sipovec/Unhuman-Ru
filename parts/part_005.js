@@ -45,7 +45,7 @@
     "Accessories": "Аксессуары",
     "Backpacks": "Рюкзаки",
     "Body Armor": "Броня",
-    "Ambusher": "Засадник",
+    "Ambusher": "Диверсант",
     "Any unsaved progress will be lost.": "Любой несохраненный прогресс будет потерян.",
     "Are you sure you want to reset the skill tree?": "Вы уверены, что хотите сбросить дерево навыков?",
     "Chance to avoid attacks": "Шанс избежать атаки",
