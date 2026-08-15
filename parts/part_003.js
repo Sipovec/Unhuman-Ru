@@ -4,7 +4,7 @@
     "Enter Name": "Введите имя",
     "TECH TABLE": "Техно-верстак",
     "Bad (unprotected)": "Плохое (незащищенное)",
-    "On killed: heal → equip best gear from stash → redeploy. If stash empty: scav gear + Silent Expanse CL0.": "При смерти: лечение → экипировка лучшего снаряжения из хранилища → REDEPLOY. Если хранилище пусто: собирайте снаряжение + Silent Expanse CL0.",
+    "On killed: heal → equip best gear from stash → redeploy. If stash empty: scav gear + Silent Expanse CL0.": "При смерти: лечение → экипировка лучшего снаряжения из хранилища → REDEPLOY. Если хранилище пусто: Scav-снаряжение + Silent Expanse CL0.",
     "After stamina runs low, sprint resumes once it refills to this level. Lower = sprint kicks back in sooner, in shorter bursts; sprint always pauses below 20%": "Когда выносливость на исходе, спринт возобновляется, когда она восстановится до этого уровня. Чем ниже значение = тем быстрее и короче рывки спринта; спринт всегда приостанавливается, если выносливость ниже 20%.",
     "Which weapon a raid starts with. Empty slot falls back to primary, secondary, melee. Q still switches mid raid": "Оружие, с которым начинается RAID. Если слот пуст, используется основное, дополнительное или холодное оружие. Клавиша Q по-прежнему переключает оружие во время RAID.",
     "MATERIAL": "МАТЕРИАЛ",
