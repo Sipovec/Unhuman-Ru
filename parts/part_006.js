@@ -49,7 +49,7 @@
     "Mining GPUs": "Видеокарты для майнинга",
     "Medkits, Stims": "Аптечки, стимуляторы",
     "Junk / Barter / Food items": "Хлам / Бартер / Еда",
-    "General looting efficiency": "Общая эффективность лута",
+    "General looting efficiency": "Общая эффективность добычи",
     "Maximum carry weight": "Макс. переносимый вес",
     "Mitigates physical damage": "Смягчает физический урон",
     "Ignores enemy armor": "Игнорирует броню врага",

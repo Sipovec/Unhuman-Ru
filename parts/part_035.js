@@ -51,7 +51,7 @@
     "Loot $3,000 worth of items in raids": "Собери предметов на $3,000 в RAID",
     "Loot $8,000 worth of items in raids": "Собери предметов на $8,000 в RAID",
     "Loot $20,000 worth of items in raids": "Собери предметов на $20,000 в RAID",
-    "Sell $5,000 worth to traders": "Продай торговцам лут на $5,000",
+    "Sell $5,000 worth to traders": "Продай торговцам добыча на $5,000",
     "Salvage 5 items": "Разбери 5 предметов",
     "Salvage 25 items": "Разбери 25 предметов",
     "Find Nano-Tape": "Найди Nano-Tape",

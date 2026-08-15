@@ -20,7 +20,7 @@
     "Adaptive armor that hardens on impact.": "Адаптивная броня, которая твердеет при ударе.",
     "Bio-synthetic skin with rapid healing capabilities.": "Биосинтетическая кожа с возможностью быстрого исцеления.",
     "Each hit taken increases armor, stacking through combat.": "Каждое полученное попадание увеличивает броню, стакается в бою.",
-    "Neural boost for faster looting and movement.": "Нейронный буст для ускоренного лута и перемещения.",
+    "Neural boost for faster looting and movement.": "Нейронный буст для ускоренного добычи и перемещения.",
     "Industrial-grade skeleton for increased carrying capacity.": "Промышленный скелет для увеличения грузоподъемности.",
     "Dark energy core that drains life from enemies.": "Ядро темной энергии, высасывающее жизнь из врагов.",
     "Helps you find items and detects enemies up ahead.": "Помогает искать предметы и обнаруживает врагов впереди.",

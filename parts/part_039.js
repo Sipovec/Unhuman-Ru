@@ -84,7 +84,7 @@
     "+10% Damage": "+10% урона",
     "+20% Damage": "+20% урона",
     "+5 Scavenge": "+5 к Scavenge",
-    "+20% Loot Quantity": "+20% количества лута",
+    "+20% Loot Quantity": "+20% количества добычи",
     "2x auto-clicker speed": "2x скорость авто-кликера",
     "2x click damage": "2x урон от клика",
     "4x golden enemy chance": "4x шанс золотого врага",

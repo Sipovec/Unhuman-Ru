@@ -14,7 +14,7 @@
     "Heavy Bolt Routine": "Протокол тяжелого затвора",
     "Impact Compiler": "Компилятор удара",
     "Lightweight Combat Mesh": "Легкая боевая сеть",
-    "Loot Optimization Engine": "Движок оптимизации лута",
+    "Loot Optimization Engine": "Движок оптимизации добычи",
     "Penetration Geometry Stack": "Стек геометрии пробития",
     "Mobility Override Protocol": "Протокол перехвата мобильности",
     "Monoblade Edge Map": "Карта кромки монолезвия",

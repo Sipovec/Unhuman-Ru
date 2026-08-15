@@ -43,7 +43,7 @@
     "Headshot Mult": "Множитель хедшота",
     "Maximum Vitals": "Макс. показатели жизнеобеспечения",
     "Weight Capacity": "Грузоподъемность",
-    "Scavenging": "Сбор лута",
+    "Scavenging": "Собирательство",
     "Stealth": "Скрытность",
     "Speed": "Скорость",
     "elemental damage": "стихийный урон",

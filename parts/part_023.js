@@ -14,7 +14,7 @@
     "Grab-Assist Script": "Скрипт помощи при захвате",
     "Grip Tape Hotfix": "Хотфикс ленты на рукояти",
     "Grip Profile": "Профиль рукояти",
-    "Loot Scanner Macro": "Макрос сканера лута",
+    "Loot Scanner Macro": "Макрос сканера добычи",
     "Micro-Reach Spacer": "Микро-разделитель дистанции",
     "Micro-Overclock": "Микро-оверклокинг",
     "Impact Padding Layer": "Амортизирующий слой",
