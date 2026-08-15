@@ -104,7 +104,7 @@
     "COOLDOWN:": "ПЕРЕЗАРЯДКА:",
     "CORRUPTION": "ПОРЧА",
     "COST": "СТОИМОСТЬ",
-    "CRAFTING:": "КРАФТ:",
+    "CRAFTING:": "ПРОИЗВОДСТВО:",
     "CRAWLER": "ПОЛЗУН",
     "CRIT": "КРИТ",
     "CRIT CHANCE": "ШАНС КРИТА",

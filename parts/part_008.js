@@ -90,5 +90,5 @@
     "* effects vary by item type (armor/melee/ranged) - type 'help glitch' in terminal": "* эффекты зависят от типа предмета (броня/ближний/дальний бой) - введите «help glitch» в терминале",
     "No item selected. Use \"select <n>\" first.": "Предмет не выбран. Сначала используйте «select <n>».",
     "sell btc <amount>": "sell btc <amount>",
-    "target crafting": "целевой крафт",
+    "target crafting": "цель производства",
     "Inject collected codes for": "Инъекция собранных кодов для",

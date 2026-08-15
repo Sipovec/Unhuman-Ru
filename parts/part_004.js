@@ -57,7 +57,7 @@
     "Corrupted Raids": "Зараженные RAID",
     "Wardens Defeated": "Побеждено WARDEN",
     "Salvage all items up to a rarity tier?": "Разобрать все предметы до уровня редкости?",
-    "for crafting materials?": "для материалов крафта?",
+    "for crafting materials?": "для материалов производства?",
     "Expected:": "Ожидается:",
     "custom weapon": "кастомное оружие",
     "custom armor": "кастомная броня",
