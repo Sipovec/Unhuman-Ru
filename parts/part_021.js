@@ -41,7 +41,7 @@
     "Complete your raid first, then visit the Ripperdoc in the TRADERS tab.": "Сначала завершите свой RAID, затем посетите RIPPERDOC во вкладке TRADERS.",
     "ESCAPE FAILED": "ПОБЕГ ПРОВАЛЕН",
     "I see you.": "Я тебя вижу.",
-    "If stash is empty: Scav gear + Silent Expanse CL0": "Если хранилище пусто: Scav gear + Silent Expanse CL0",
+    "If stash is empty: Scav gear + Silent Expanse CL0": "Если хранилище пусто: Scav-снаряжение + Silent Expanse CL0",
     "Loading save...": "Загрузка сохранения...",
     "No materials recovered.": "Материалы не получены.",
     "On death: Auto-heal → Equip best gear from stash → Redeploy": "При смерти: Авто-лечение → Экипировка лучшего снаряжения из хранилища → Передислокация",
