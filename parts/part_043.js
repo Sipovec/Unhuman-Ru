@@ -102,7 +102,7 @@
     "CONFIRM": "ПОДТВЕРДИТЬ",
     "CONTAINER": "КОНТЕЙНЕР",
     "COOLDOWN:": "ПЕРЕЗАРЯДКА:",
-    "CORRUPTION": "ПОРЧА",
+    "CORRUPTION": "ИСКАЖЕНИЕ",
     "COST": "СТОИМОСТЬ",
     "CRAFTING:": "ПРОИЗВОДСТВО:",
     "CRAWLER": "ПОЛЗУН",

@@ -46,7 +46,7 @@
     "SELECT AVATAR:": "ВЫБЕРИТЕ АВАТАР:",
     "SELL": "ПРОДАТЬ",
     "SERVER STATUS:": "СТАТУС СЕРВЕРА:",
-    "SIGNAL CORRUPTION": "ПОМЕХИ СИГНАЛА",
+    "SIGNAL CORRUPTION": "ИСКАЖЕНИЕ СИГНАЛА",
     "SIGNAL LOST": "СИГНАЛ ПОТЕРЯН",
     "SILENT EXPANSE": "SILENT EXPANSE",
     "SKILLS": "НАВЫКИ",
