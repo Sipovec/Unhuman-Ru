@@ -1,7 +1,7 @@
     // ==== часть 13: остаток описаний мусора + описания древа добычи/мастерства + советы ментора по RAID ====
     "Password-protected. Someone died keeping this secret.": "Защищено паролем. Кто-то умер, храня эту тайну.",
     "Hand-drawn. Routes crossed out. One circled in red.": "Нарисовано от руки. Маршруты зачеркнуты. Один обведен красным.",
-    "Last words recorded: 'What the hell is—'": "Последние записанные слова: «Что, черт возьми...»",
+    "Last words recorded: 'What the hell is-'": "Последние записанные слова: «Что, черт возьми...»",
     "Translation: 'They're not coming to save us.'": "Перевод: «Они не придут нас спасать.»",
     "EYES ONLY. Every eye that read this is now closed.": "ТОЛЬКО ДЛЯ ГЛАЗ. Каждые глаза, прочитавшие это, теперь закрыты.",
     "Heads: a symbol you don't recognize. Tails: the same symbol.": "Орел: символ, который вы не узнаете. Решка: тот же символ.",
@@ -39,4 +39,4 @@
     "+10% damage vs Wardens per level": "+10% урона по WARDEN за каждый уровень",
     "One weapon. On the house. First and last time.": "Одно оружие. В подарок. Первый и последний раз.",
     "Fifteen targets. Any map. Show me consistency, not luck.": "Пятнадцать целей. Любая карта. Покажи мне стабильность, а не удачу.",
-    "Ten extractions. Luck runs out. Patience doesn't.": "Десять эвакуаций. Удача заканчивается. Терпение — нет.",
+    "Ten extractions. Luck runs out. Patience doesn't.": "Десять эвакуаций. Удача заканчивается. Терпение - нет.",

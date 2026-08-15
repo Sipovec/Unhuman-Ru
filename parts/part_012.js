@@ -22,7 +22,7 @@
     "Glitch Clone": "Глитч-клон",
     "If you want clean work, stop asking dirty questions.": "Если хочешь чистой работы, перестань задавать грязные вопросы.",
     "Breathe in. Don't waste my precision.": "Сделай вдох. Не трать мою точность впустую.",
-    "The new part will take. Your pride might not.": "Новая деталь приживется. А вот твоя гордость — вряд ли.",
+    "The new part will take. Your pride might not.": "Новая деталь приживется. А вот твоя гордость - вряд ли.",
     "Don't tell me your story. Tell me your budget.": "Не рассказывай мне свою историю. Называй бюджет.",
     "I don't lie. I just charge for the truth.": "Я не лгу. Я просто беру плату за правду.",
     "Size.": "Размер.",

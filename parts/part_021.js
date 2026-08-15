@@ -179,7 +179,7 @@
         ["^PHASE (\\d+)$", "ФАЗА $1"],
         ["^SEC: (.+)$", "СЕКТОР: $1"],
         ["^SECTOR: (.+)$", "СЕКТОР: $1", "T"],
-        ["^ROOT works on STANDARD gear only\\. This item is ([A-Z]+)\\.$", "ROOT работает только на STANDARD снаряжении. Этот предмет — $1."],
+        ["^ROOT works on STANDARD gear only\\. This item is ([A-Z]+)\\.$", "ROOT работает только на STANDARD снаряжении. Этот предмет - $1."],
         ["^AUTO-I(NSANITY)? OVERCLOCK$", "АВТО-OVERCLOCK (INSANITY)"],
         ["^REWARD: (.+)$", "НАГРАДА: $1"],
         ["^WAVE (\\d+)$", "ВОЛНА $1"],

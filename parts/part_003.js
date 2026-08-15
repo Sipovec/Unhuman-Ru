@@ -43,7 +43,7 @@
     ". Check back after leveling up for new inventory.": ". Заходите после повышения уровня, чтобы увидеть новинки.",
     "trades in FLUX currency. Stock refreshes every 2h. Items here can't be bargained.": "торгует за валюту FLUX. Ассортимент обновляется каждые 2 часа. Торг здесь невозможен.",
     "breaks down gear into tech currencies. Higher tier items yield rarer materials.": "разбирает снаряжение на технологические валюты. Предметы более высокого тира дают более редкие материалы.",
-    "unlocked! Wardens are powerful bosses with guaranteed loot. Defeat the Warden to unlock the": "разблокировано! WARDEN — это мощные боссы с гарантированной добычей. Победите WARDEN, чтобы разблокировать",
+    "unlocked! Wardens are powerful bosses with guaranteed loot. Defeat the Warden to unlock the": "разблокировано! WARDEN - это мощные боссы с гарантированной добычей. Победите WARDEN, чтобы разблокировать",
     "slot and equip from your augment locker.": "слот и экипируйте из своего шкафчика имплантов.",
     "TIP: Use": "ПОДСКАЗКА: используйте",
     "to quickly break down multiple items by rarity filter.": "чтобы быстро разобрать сразу несколько предметов через фильтр редкости.",
