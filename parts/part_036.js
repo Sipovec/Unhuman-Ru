@@ -76,7 +76,7 @@
     "KEYBINDS": "УПРАВЛЕНИЕ",
     "KILL VAHLEN": "УБИТЬ VAHLEN",
     "KILLS:": "УБИЙСТВ:",
-    "Keystones": "Keystones",
+    "Keystones": "Ключевые навыки",
     "LAYER 1": "СЛОЙ 1",
     "LEVEL:": "УРОВЕНЬ:",
     "LOCKED": "ЗАБЛОКИРОВАНО",
