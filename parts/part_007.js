@@ -81,4 +81,4 @@
     "Reduces enemy detection chance": "Снижает шанс обнаружения врагом",
     "Raids start with sprint enabled (same stamina rules; SHIFT still toggles mid-raid)": "RAID начинаются с включенным спринтом (те же правила выносливости; SHIFT по-прежнему переключает режим во время RAID)",
     "Repair equipped weapons after raid ($)": "Ремонтировать экипированное оружие после RAID ($)",
-    "Strapped your crafted piece on you. The old one is in your stash.": "Скрафченная вещь надета на вас. Старая вещь находится в тайнике.",
+    "Strapped your crafted piece on you. The old one is in your stash.": "Созданный предмет экипирован. Старый отправлен в хранилище.",
