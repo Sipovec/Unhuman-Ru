@@ -43,7 +43,7 @@
     "DMG%": "DMG%",
     "WPN": "WPN",
     "LVL": "LVL",
-    "Reset ALL mastery nodes? Returns all Prestige Points.": "Сбросить ВСЕ узлы мастерства? Вернет все очки Prestige.",
+    "Reset ALL mastery nodes? Returns all Prestige Points.": "Сбросить ВСЕ узлы мастерства? Вернет все очки Престижа.",
     "Reset ALL Signal Harvest nodes? Echo Points are refunded.": "Сбросить ВСЕ узлы Signal Harvest? Очки Echo будут возвращены.",
     "Reset ALL Madness Protocol nodes? Spent insanity is fully refunded.": "Сбросить ВСЕ узлы Madness Protocol? Потраченное безумие будет полностью возвращено.",
     "module": "модуль",
