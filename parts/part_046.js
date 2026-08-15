@@ -122,7 +122,7 @@
     "Ghost Weave": "Призрачное плетение",
     "Gold Bar": "Золотой слиток",
     "Hallway Sentry": "Часовой коридора",
-    "Handling": "Управление",
+    "Handling": "Владение",
     "Harvester Mech": "Механик-сборщик",
     "Headshot Multiplier": "Множитель хедшота",
     "Heal 15% max HP after every combat": "Исцеление 15% макс. HP после каждого боя",

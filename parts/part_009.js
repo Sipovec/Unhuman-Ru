@@ -12,7 +12,7 @@
     "damage reduction": "Снижение урона",
     "max HP per second": "Макс. HP в сек.",
     "accuracy": "Точность",
-    "handling": "Управление",
+    "handling": "владение",
     "HP Regen": "Регенерация HP",
     "Health regeneration per second": "Регенерация здоровья в сек.",
     "Flat damage reduction": "Фикс. снижение урона",

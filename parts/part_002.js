@@ -34,7 +34,7 @@
     "Options > GAMEPLAY: Auto Accept and Complete Quests.": "Настройки > GAMEPLAY: Автоматический прием и выполнение заданий.",
     "Silent Expanse is preset to corruption level 1. Click the marker, then hit DEPLOY on the right and clear the raid.": "SILENT EXPANSE предустановлен на уровень коррупции 1. Нажмите на маркер, затем нажмите DEPLOY справа и завершите RAID.",
     "Boss got you stuck? Pump DAMAGE AMP and HULL PLATING in the shop. Better raid gear raises your base stats too.": "Застряли на боссе? Прокачайте DAMAGE AMP и HULL PLATING в магазине. Лучшее RAID-снаряжение также повышает ваши базовые характеристики.",
-    "INSANITY terminal: the shop panel on the right. DAMAGE AMP and CRIT LENS under OFFENSE, HULL PLATING under DEFENSE.": "Терминал INSANITY: панель магазина справа. DAMAGE AMP и CRIT LENS находятся в разделе OFFENSE, HULL PLATING - в разделе DEFENSE.",
+    "INSANITY terminal: the shop panel on the right. DAMAGE AMP and CRIT LENS under OFFENSE, HULL PLATING under DEFENSE.": "Терминал БЕЗУМИЕ: панель магазина справа. DAMAGE AMP и CRIT LENS находятся в разделе OFFENSE, HULL PLATING - в разделе DEFENSE.",
     "Stow a magazine and a medkit in your containers": "Поместите магазин и аптечку в свои контейнеры",
     "Skip this task? You will not get its reward.": "Пропустить задание? Вы не получите награду.",
     ">_ SELECT_CLASS": ">_ ВЫБОР_КЛАССА",

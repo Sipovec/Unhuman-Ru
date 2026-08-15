@@ -204,7 +204,7 @@
     "GUIDE ME": "ВЕДИ МЕНЯ",
     "GUNSMITH QUESTS": "ЗАДАНИЯ GUNSMITH",
     "HACKING": "ВЗЛОМ",
-    "HANDLING": "УПРАВЛЕНИЕ",
+    "HANDLING": "ВЛАДЕНИЕ",
     "HAPPINESS": "СЧАСТЬЕ",
     "HEAD": "ГОЛОВА",
     "HEADS": "ПЕРЕД",

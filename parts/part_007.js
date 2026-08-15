@@ -2,7 +2,7 @@
     "S sells, X salvages the hovered item. NEVER skips every prompt, mythic included: a misclick is final.": "S - продать, X - разобрать выбранный предмет. НИКОГДА - пропускает все окна подтверждения, включая MYTHIC: ошибка клика необратима.",
     "Takes and finishes every quest you qualify for, raids included. Needs stash room for the rewards. Prestige, endgame and reward-choice quests stay yours.": "Принимает и завершает все доступные задания, включая RAID. Требуется место в хранилище для наград. Задания на престиж, эндгейм и задания с выбором награды остаются за вами.",
     "Caps internal update work to save CPU. Display output follows your monitor's refresh rate (engine limit): for a hard FPS cap use your GPU driver's frame limiter.": "Ограничивает внутренние обновления для экономии CPU. Вывод изображения соответствует частоте обновления монитора (лимит движка): для жесткого ограничения FPS используйте ограничитель кадров в драйвере видеокарты.",
-    "Reduces recoil per shot. Also sets your headshot chance: handling / 5, capped at 20%": "Снижает отдачу за выстрел. Также определяет ваш шанс хедшота: управление / 5, максимум 20%",
+    "Reduces recoil per shot. Also sets your headshot chance: handling / 5, capped at 20%": "Снижает отдачу за выстрел. Также определяет ваш шанс хедшота: владение / 5, максимум 20%",
     "Protections always win, then Tier Cleanup force-sells bad bases, then Max Rarity sells the rest": "Защита всегда в приоритете, затем Tier Cleanup принудительно продает плохие базы, затем Max Rarity продает остальное",
     "Run a raid and come back alive": "Выполни RAID и вернись живым",
     "Press HEAL on the extraction screen": "Нажми HEAL на экране эвакуации",
