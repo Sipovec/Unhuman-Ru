@@ -7,7 +7,7 @@
     "NO WEAPON": "НЕТ ОРУЖИЯ",
     "NONE": "НЕТ",
     "NOT NOW": "НЕ СЕЙЧАС",
-    "No keystones selected": "Keystones не выбраны",
+    "No keystones selected": "Ключевые навыки не выбраны",
     "No saved plans": "Нет сохраненных планов",
     "No stats yet": "Статистики пока нет",
     "OBJECTIVES": "ЦЕЛИ",
