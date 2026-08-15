@@ -83,7 +83,7 @@
     "One more thing: every trader's quests share that one screen. You can always auto accept and auto complete quests from Options > GAMEPLAY.": "И еще кое-что: задания всех торговцев используют один и тот же экран. Ты всегда можешь включить авто-принятие и авто-выполнение заданий в Настройках > ГЕЙМПЛЕЙ.",
     "The field. I'll walk you through it once, then you're on your own.": "Поле боя. Я проведу тебя один раз, а дальше — сам.",
     "Click a POI icon on the map. You'll route there and start searching on arrival. Go on, click one.": "Кликни на иконку POI на карте. Ты направишься туда и начнешь поиск по прибытии. Давай, кликни на одну.",
-    "Done looting? Route to EXTRACT and leave alive. Dying costs you the bag. Good hunting.": "Закончил лутать? Направляйся к EXTRACT и уходи живым. Смерть будет стоить тебе всего снаряжения. Удачной охоты.",
+    "Done looting? Route to EXTRACT and leave alive. Dying costs you the bag. Good hunting.": "Закончил лутать? Направляйся на ЭВАКУАЦИЮ и уходи живым. Смерть будет стоить тебе всего снаряжения. Удачной охоты.",
     "Clicks stack into a route queue. Double-click a POI to drop the queue and head straight there.": "Клики накапливаются в очередь маршрутов. Дважды кликни на POI, чтобы сбросить очередь и отправиться прямо туда.",
     "SHIFT toggles auto sprint. Faster legs, hungrier stamina. Try it now.": "SHIFT переключает авто-спринт. Ноги бегут быстрее, но выносливость тает быстрее. Попробуй сейчас.",
     "Top left HUD shows your gun, its magazine and ammo. Reloads live there, watch it in fights.": "В левом верхнем углу HUD отображается твое оружие, магазин и патроны. Перезарядка тоже там, следи за этим в бою.",

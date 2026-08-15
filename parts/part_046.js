@@ -32,7 +32,7 @@
     "Auto-Recover on Death": "Авто-восстановление при смерти",
     "Auto-Repair Nanites": "Авто-ремонт нанитов",
     "Auto-Repair Weapons": "Авто-ремонт оружия",
-    "Auto-Rush to Extraction": "Авто-рывок к EXTRACT",
+    "Auto-Rush to Extraction": "Авто-рывок к ЭВАКУАЦИИ",
     "Auto-Salvage Gear": "Авто-разбор снаряжения",
     "Auto-Sell Loot": "Авто-продажа лута",
     "Auto-Use Adrenaline": "Авто-использование адреналина",
