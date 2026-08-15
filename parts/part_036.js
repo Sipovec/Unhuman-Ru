@@ -40,7 +40,7 @@
     "CLEAR": "ОЧИСТИТЬ",
     "CLICK TO NAVIGATE": "КЛИКНИТЕ ДЛЯ НАВИГАЦИИ",
     "CLOSE": "ЗАКРЫТЬ",
-    "CODE VAULT": "СХРОН КОДОВ",
+    "CODE VAULT": "ХРАНИЛИЩЕ КОДОВ",
     "CONFIRM RESET": "ПОДТВЕРДИТЬ СБРОС",
     "CONFIRMATION": "ПОДТВЕРЖДЕНИЕ",
     "CONTINUE": "ПРОДОЛЖИТЬ",
