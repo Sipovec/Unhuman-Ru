@@ -44,7 +44,7 @@
     "Plank": "Доска",
     "CLOTH": "Ткань",
     "MECHANICAL": "Механическое",
-    "enhanced": "ENCHANCED",
+    "enhanced": "ENHANCED",
     "custom": "CUSTOM",
     "No eligible items found.": "Подходящих предметов не найдено.",
     "module codes": "коды модулей",
